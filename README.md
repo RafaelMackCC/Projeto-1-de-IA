@@ -1,10 +1,10 @@
 # Projeto I - IA
 
-• Relatório do Projeto; 
-  \nRelatório.pdf
+• Relatório do Projeto;  
+  Relatório.pdf
     
-• Dataset utilizado contendo breve descrição; 
-  \nO dataset utilizado são dados de vendas fornecidas pela Walmart.
+• Dataset utilizado contendo breve descrição;  
+  O dataset utilizado são dados de vendas fornecidas pela Walmart.
     
-• O(s) código(s) Python (notebooks) da análise exploratória;
-  \ncódigo.ipynb
+• O(s) código(s) Python (notebooks) da análise exploratória;  
+  código.ipynb
