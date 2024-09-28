@@ -7,4 +7,4 @@
   - O dataset utilizado são dados de vendas fornecidas pela Walmart.
     
 • O(s) código(s) Python (notebooks) da análise exploratória;
-- 
+- código.ipynb
