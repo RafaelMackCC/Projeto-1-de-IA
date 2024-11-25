@@ -20,4 +20,5 @@
 
 • O código Python (notebooks) dos modelos (Random Forest e Gradient Boosting);  
 > randomForest.ipynb<br>
-> gradientBoosting.ipynb<br>os codígos estão no arquivo do 2ºbimestre.
+> gradientBoosting.ipynb<br><br>
+Os codígos estão no arquivo do 2ºbimestre.
