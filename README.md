@@ -1,6 +1,5 @@
 # Projeto - Aplicação de Inteligência Artificial em Problema Real
 ## Universidade Presbiteriana Mackenzie - Inteligência Artificial – 7ºN CC
-
 Pedro Catarino - 10395215<br>
 Daniel Kabadayan - 10332633<br>
 Rafael Yun - 10313890
