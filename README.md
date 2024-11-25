@@ -19,5 +19,5 @@
 > Relatório Final.pdf
 
 • O código Python (notebooks) dos modelos (Random Forest e Gradient Boosting);  
-> randomForest.ipynb
+> randomForest.ipynb\n
 > gradientBoosting.ipynb
